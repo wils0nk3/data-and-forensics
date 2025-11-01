@@ -33,6 +33,3 @@ This section demonstrates the standards necessary for producing data suitable fo
 
 * **Forensic Tool Interoperability:** Documentation on standards and formats that ensure data collected and analyzed can be reliably integrated with external forensic tools and legal platforms.
 * **Data Export Verification:** Protocols for securely packaging evidence (including manifest files and hash verification procedures) to ensure integrity during data handoff for investigative or legal review.
-Now that we have defined four of your six core featured repositories, we are closer to securing your funding.
-
-Would you like to proceed with generating the initial **Security Audit Checklist** for the private repositories of the **Rules of Conduct Civil Rights App**?
